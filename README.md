@@ -1,54 +1,84 @@
-# 🚌 Bus Breakdown and Delays Analysis with Excel
+============================================================
+📊 School Bus Delay Data Analysis (Excel Project)
+============================================================
 
-**Personal Project** | Abu Dhabi, UAE | March 2024
+🧠 Project Overview
+------------------------------------------------------------
+This project focuses on analyzing real-world operational data
+related to school bus delays. The dataset contains reports of
+bus delays and breakdowns, including information about regions,
+bus companies, delay duration, number of students affected,
+and notification status.
 
----
+The goal is to transform raw Excel data into meaningful
+insights that can support better decision-making in school
+transportation management.
 
-## 📖 Project Overview
+------------------------------------------------------------
 
-Analyzed New York Department of Transportation bus data using Excel to identify factors causing breakdowns and delays, helping uncover operational insights.
+🎯 Project Objectives
+------------------------------------------------------------
+- Identify the most common causes of school bus delays
+- Analyze delay frequency across different regions
+- Evaluate the performance of bus companies
+- Measure notification compliance for:
+  • Schools
+  • Parents
+  • Authorities
+- Understand the relationship between delay duration
+  and number of students affected
 
----
+------------------------------------------------------------
 
-## 🔍 Objectives
+🗂️ Project Structure
+------------------------------------------------------------
+The project is divided into multiple Excel files, each
+representing a specific part of the workflow:
 
-- Identify the most common reasons for bus breakdowns  
-- Understand key causes of bus delays  
-- Analyze delay time variations among the top 10 bus companies  
+- Raw Data Files
+  Contain unprocessed delay and breakdown records
 
----
+- Cleaned Data
+  Data after handling missing values, formatting issues,
+  and inconsistencies
 
-## 🛠️ Approach
+- Analysis Files
+  Pivot tables and summaries used to explore patterns
+  and trends
 
-- Cleaned dataset by removing unused columns and duplicates  
-- Used Excel functions for data aggregation and filtering  
-- Created pivot tables and charts to visualize findings  
+- Insights
+  Key findings extracted from the analysis
 
----
+------------------------------------------------------------
 
-## 📊 Insights
+🛠️ Tools & Techniques Used
+------------------------------------------------------------
+- Microsoft Excel
+- Data Cleaning Techniques
+- Pivot Tables
+- Exploratory Data Analysis (EDA)
+- Basic Data Visualization
 
-- Frequent breakdown reasons: engine failure, mechanical faults, etc.  
-- Primary delay causes: traffic, driver shortages, weather impact  
-- Delay times varied significantly across top bus companies  
+------------------------------------------------------------
 
----
+📈 Project Value
+------------------------------------------------------------
+This project demonstrates the ability to:
+- Work with real, unstructured datasets
+- Clean and prepare data for analysis
+- Extract actionable insights from operational data
+- Use Excel as a professional data analysis tool
 
-## 📂 Dataset
+------------------------------------------------------------
 
-Data sourced from the New York Department of Transportation’s public bus operation records.
+👤 Author
+------------------------------------------------------------
+Name  : Shady Mahmoud
+Field : Data Analysis / Software Development
 
----
+============================================================
 
-## 🤝 Skills Developed
-
-- Advanced Excel data cleaning and preparation  
-- Pivot tables and chart creation  
-- Data-driven analysis for transportation operations  
-
----
-
-## 📥 Download the Dataset
+ 📥 Download the Dataset
 
 [Download Bus Breakdown Analysis Excel File](https://drive.google.com/file/d/11G234MgBlDPOLqAb-v58dBdhEGtKjib4/view?usp=drive_link)
 
